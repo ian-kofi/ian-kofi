@@ -5,7 +5,6 @@ I'm a Geospatial Data Scientist with a passion for blending spatial analytics, m
 **🌍 What I'm up to:**
 - 🔭 Architecting **GeoFlow**, an open-source, DAG node-based geospatial workflow builder for raster and vector data processing.
 - 🌱 Exploring Deep Learning (U-Net, D-LinkNet34) for satellite image road segmentation, Physics-Informed Neural Networks (PINNs), and Explainable AI.
-- ⚡ Fun fact: When I'm not writing Python or training spatial models, you can usually find me practicing calisthenics, sketching architectural concepts, or playing chess.
 
 **🛠️ Tech Stack:**
 - **Languages:** Python, SQL, JavaScript
