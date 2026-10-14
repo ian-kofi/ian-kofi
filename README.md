@@ -13,5 +13,5 @@ I'm a Geospatial Data Scientist with a passion for blending spatial analytics, m
 - **Data Viz & BI:** Power BI, Tableau
 
 **📫 Connect with me:**
-- [LinkedIn](#) <!-- Add your LinkedIn URL here -->
+- [LinkedIn](#) <!--https://www.linkedin.com/in/ian-addo-7b43902a9  -->
 - [Portfolio](#) <!-- Add your personal website if you have one -->
