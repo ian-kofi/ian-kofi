@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Ian! 👋
 
-<!--
-**ian-kofi/ian-kofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Geospatial Data Scientist with a passion for blending spatial analytics, machine learning, and creative design. I am currently pursuing my MSc in Geographic Data Science at Birkbeck, University of London, where I focus on applying advanced spatial modeling to real-world challenges.
 
-Here are some ideas to get you started:
+**🌍 What I'm up to:**
+- 🔭 Architecting **GeoFlow**, an open-source, DAG node-based geospatial workflow builder for raster and vector data processing.
+- 🌱 Exploring Deep Learning (U-Net, D-LinkNet34) for satellite image road segmentation, Physics-Informed Neural Networks (PINNs), and Explainable AI.
+- ⚡ Fun fact: When I'm not writing Python or training spatial models, you can usually find me practicing calisthenics, sketching architectural concepts, or playing chess.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠️ Tech Stack:**
+- **Languages:** Python, SQL, JavaScript
+- **Geospatial & ML:** Rasterio, MapLibre, PyTorch, NumPy
+- **Backend & Frontend:** FastAPI, React Flow
+- **Data Viz & BI:** Power BI, Tableau
+
+**📫 Connect with me:**
+- [LinkedIn](#) <!-- Add your LinkedIn URL here -->
+- [Portfolio](#) <!-- Add your personal website if you have one -->
